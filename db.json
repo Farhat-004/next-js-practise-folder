@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "description": "Description for Product 1",
+      "price": 19.99,
+      "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "description": "Description for Product 2",
+      "price": 29.99,
+      "image": "https://images.pexels.com/photos/1770650/pexels-photo-1770650.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "title": "qwd",
+      "image": "https://res.cloudinary.com/dtk2ucppn/image/upload/v1738635586/bxrh59pjiptzoclvl1mv.png",
+      "description": "wdf",
+      "price": "123",
+      "id": "KXJwtqv"
+    },
+    {
+      "title": "qwe",
+      "image": "",
+      "description": "sd",
+      "price": "123",
+      "id": "1_e-L4Q"
+    }
+  ]
+}
